@@ -1,0 +1,17 @@
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.csprojAssemblyReference.cache
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\BindingModeDemo.xaml.g.cs
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\ListViewDemo.xaml.g.cs
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\PickerDemo.xaml.g.cs
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.AssemblyInfoInputs.cache
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.AssemblyInfo.cs
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.csproj.CoreCompileInputs.cache
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.dll
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\ref\DataBinding.dll
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.pdb
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\bin\Debug\netstandard2.0\DataBinding.deps.json
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\bin\Debug\netstandard2.0\DataBinding.dll
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\bin\Debug\netstandard2.0\ref\DataBinding.dll
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\bin\Debug\netstandard2.0\DataBinding.pdb
+C:\2021-1\AMM\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+BWgo1LVJwGidWE5/tD+PSS0hekxlqeZYW0gLguEh1hEOp8uvhImU/tbpd9oQYT0Kyx3uvaKraQtemHZttprgQ==",
+  "success": true,
+  "projectFilePath": "C:\\2021-1\\AMM\\Xamarin\\DataBinding\\DataBinding\\DataBinding.iOS\\DataBinding.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando Valdivia\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
